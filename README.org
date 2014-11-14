@@ -1,0 +1,12 @@
+* reducycle
+
+** Usage
+
+   (reducycle [+ -] 0 (range 1 10))  ; = 0 + 1 - 2 + 3 - 4 + 5 - 6 + 7 - 8 + 9 = 5
+
+** License
+
+   Copyright © 2014 @rplevy
+
+   Distributed under the Eclipse Public License either version 1.0 or (at
+   your option) any later version.
